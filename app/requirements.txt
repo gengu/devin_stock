@@ -1,0 +1,15 @@
+fastapi[standard]
+fastapi[all]
+uvicorn[standard]
+sqlalchemy
+asyncpg
+python-dotenv
+yfinance
+pandas
+python-multipart
+email-validator
+itsdangerous
+pyyaml
+ujson
+orjson
+httpx
